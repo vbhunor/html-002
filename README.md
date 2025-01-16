@@ -14,7 +14,7 @@ https://mek.oszk.hu/00700/00705/html/ketfuzfa.htm (2020)
 
 Feladatok:
 
-A adat.txt állomány tartalmát illessze be a HTML oldal törzs részébe.
+A adat.txt állomány tartalmát illessze be a HTML oldal törzs részébe.\n
 Állítsa be az oldalt magyar nyelvűre.
 Állítsa be, hogy a böngészőfülön a „Két fűzfa” felirat jelenjen meg.
 Állítson be a szöveg előtt egyes szintű fejezetcímet, „Két fűzfa” tartalommal.
