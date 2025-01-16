@@ -2,10 +2,10 @@
 HTML 002 feladat, forrás: szit.hu
 
 
-Feladat 002
-Készítse el a „matrona” nevű könyvtárat.
-Minden további feladatot ebben a könyvtárban oldjon meg.
-Töltse le az adat.txt és az index.html állományt:
+Feladat 002<br>
+Készítse el a „matrona” nevű könyvtárat.<br>
+Minden további feladatot ebben a könyvtárban oldjon meg.<br>
+Töltse le az adat.txt és az index.html állományt:<br>
 
 
 A szöveg forrása:
